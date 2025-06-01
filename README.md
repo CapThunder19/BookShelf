@@ -38,12 +38,16 @@ A full-stack web application to add, view, search, and review books. Built using
 ## 📂 Folder Structure
 
 bookshelf/
+
 ├── backend/
+
 │ ├── models/
 │ ├── routes/
 │ ├── middleware/
 │ └── server.js
+
 ├── frontend/
+
 │ ├── components/
 │ ├── pages/
 │ └── App.js
@@ -86,9 +90,13 @@ npm run dev
 ```
 
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 Developed by Anirudh Patwal
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 
 
